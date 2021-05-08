@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(../css/quicksand/static/Quicksand-Light.ttf);
+ }
+ 
+ * {
+    font-family: 'Quicksand', sans-serif;
+ }
